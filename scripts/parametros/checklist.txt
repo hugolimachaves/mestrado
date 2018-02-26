@@ -1,0 +1,12 @@
+/home/schrodinger/sdb/CNNFeatures/executions/execution03/pca/validation/l0 .pca
+/home/schrodinger/sdb/CNNFeatures/executions/execution03/pca/validation/l1 .pca
+/home/schrodinger/sdb/CNNFeatures/executions/execution03/pca/validation/l2 .pca
+/home/schrodinger/sdb/CNNFeatures/executions/execution03/pca/validation/l3 .pca
+/home/schrodinger/sdb/CNNFeatures/executions/execution03/pca/training/l1 .pca
+/home/schrodinger/sdb/CNNFeatures/executions/execution03/pca/training/l2 .pca
+/home/schrodinger/sdb/CNNFeatures/executions/execution03/pca/training/l3 .pca
+/home/schrodinger/sdb/CNNFeatures/executions/execution03/pca/training/l0 .pca
+/home/schrodinger/sdb/CNNFeatures/executions/execution03/pca/test/l0 .pca
+/home/schrodinger/sdb/CNNFeatures/executions/execution03/pca/test/l1 .pca
+/home/schrodinger/sdb/CNNFeatures/executions/execution03/pca/test/l2 .pca
+/home/schrodinger/sdb/CNNFeatures/executions/execution03/pca/test/l3 .pca

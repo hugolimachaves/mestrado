@@ -1,0 +1,12 @@
+*******bases********
+/home/schrodinger/sdc/CNNFeatures/executions/execution70/cnnflows/training/nivel0
+/home/schrodinger/sdc/CNNFeatures/executions/execution70/cnnflows/training/nivel0
+/home/schrodinger/sdc/CNNFeatures/executions/execution70/cnnflows/training/nivel0
+******leitura*******
+/home/schrodinger/sdc/CNNFeatures/executions/execution70/cnnflows/training/nivel0
+/home/schrodinger/sdc/CNNFeatures/executions/execution70/cnnflows/validation/nivel0
+/home/schrodinger/sdc/CNNFeatures/executions/execution70/cnnflows/test/nivel0
+******escrita*******
+/home/schrodinger/sdc/CNNFeatures/executions/execution70/pca/training/l0
+/home/schrodinger/sdc/CNNFeatures/executions/execution70/pca/validation/l0
+/home/schrodinger/sdc/CNNFeatures/executions/execution70/pca/test/l0
